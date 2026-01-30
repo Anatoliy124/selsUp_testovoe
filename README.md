@@ -9,4 +9,4 @@ npm start
 ```js
 npm test
 ```
-![Результаты тестов](./source/Screenshot from 2026-01-30 22-44-54.png)
+![Результаты тестов](./test-results.png)
